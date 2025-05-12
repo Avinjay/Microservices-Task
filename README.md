@@ -78,11 +78,20 @@ This document provides details on testing various services after running the `do
 
 ---
 
+
 ## Instructions
 1. Start all services using the `docker-compose` file:
    ```
    docker-compose up
    ```
 2. Once the services are running, use the above endpoints to verify the functionality.
+or Can be done via Jenkins also
+
+### **Jenkins Automation**
+- Just run the Jenkins file attached
+
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/bda09063-1805-4f33-8a0e-392410c9afe3" />
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/5469b636-81bb-4293-a482-cee519bfb7dc" />
+
 
 Happy testing!
